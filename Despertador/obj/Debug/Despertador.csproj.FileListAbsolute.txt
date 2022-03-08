@@ -1,0 +1,20 @@
+C:\Users\Lab_03_alu_18\Desktop\Despertador\Despertador\obj\Debug\Despertador.csprojAssemblyReference.cache
+C:\Users\Lab_03_alu_18\Desktop\Despertador\Despertador\obj\Debug\Despertador.Form1.resources
+C:\Users\Lab_03_alu_18\Desktop\Despertador\Despertador\obj\Debug\Despertador.Properties.Resources.resources
+C:\Users\Lab_03_alu_18\Desktop\Despertador\Despertador\obj\Debug\Despertador.csproj.GenerateResource.cache
+C:\Users\Lab_03_alu_18\Desktop\Despertador\Despertador\obj\Debug\Despertador.csproj.CoreCompileInputs.cache
+C:\Users\Lab_03_alu_18\Desktop\Despertador\Despertador\bin\Debug\Despertador.exe.config
+C:\Users\Lab_03_alu_18\Desktop\Despertador\Despertador\bin\Debug\Despertador.exe
+C:\Users\Lab_03_alu_18\Desktop\Despertador\Despertador\bin\Debug\Despertador.pdb
+C:\Users\Lab_03_alu_18\Desktop\Despertador\Despertador\obj\Debug\Despertador.exe
+C:\Users\Lab_03_alu_18\Desktop\Despertador\Despertador\obj\Debug\Despertador.pdb
+C:\Users\Leo\Documents\Fatec segundo semestre\Linguagem de programação\Despertador\Despertador\bin\Debug\Despertador.exe.config
+C:\Users\Leo\Documents\Fatec segundo semestre\Linguagem de programação\Despertador\Despertador\bin\Debug\Despertador.exe
+C:\Users\Leo\Documents\Fatec segundo semestre\Linguagem de programação\Despertador\Despertador\bin\Debug\Despertador.pdb
+C:\Users\Leo\Documents\Fatec segundo semestre\Linguagem de programação\Despertador\Despertador\obj\Debug\Despertador.csproj.AssemblyReference.cache
+C:\Users\Leo\Documents\Fatec segundo semestre\Linguagem de programação\Despertador\Despertador\obj\Debug\Despertador.Form1.resources
+C:\Users\Leo\Documents\Fatec segundo semestre\Linguagem de programação\Despertador\Despertador\obj\Debug\Despertador.Properties.Resources.resources
+C:\Users\Leo\Documents\Fatec segundo semestre\Linguagem de programação\Despertador\Despertador\obj\Debug\Despertador.csproj.GenerateResource.cache
+C:\Users\Leo\Documents\Fatec segundo semestre\Linguagem de programação\Despertador\Despertador\obj\Debug\Despertador.csproj.CoreCompileInputs.cache
+C:\Users\Leo\Documents\Fatec segundo semestre\Linguagem de programação\Despertador\Despertador\obj\Debug\Despertador.exe
+C:\Users\Leo\Documents\Fatec segundo semestre\Linguagem de programação\Despertador\Despertador\obj\Debug\Despertador.pdb
